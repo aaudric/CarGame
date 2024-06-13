@@ -257,9 +257,9 @@ for e in range(episodes):
             agent.replay(batch_size)
 
       # Save the model and GIF at the end of each episode
-    agent.model.save(f"dqn_model_{e}.h5")
+    agent.model.save(f"model/dqn_model_{e}.keras")
     # Save GIF
-    gif_filename = f'training_episode_{e}.gif'
+    gif_filename = f'gif/training_episode_{e}.gif'
     imageio.mimsave(gif_filename, frames, fps=15)
     print(f"Saved {gif_filename}")
 
