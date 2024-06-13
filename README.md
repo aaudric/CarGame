@@ -2,11 +2,11 @@
 
 This repository contains the implementation of a car game developed using Pygame and a DQN (Deep Q-Network) agent for reinforcement learning. The DQN agent learns to play the game by controlling a car that avoids obstacles on a three-lane road.
 
+## Demo
 <p align="center">
   <img src="gif/training_episode_3.gif" alt="Gif of CarGame">
 </p>
 
-![Gif of CarGame](gif/training_episode_3.gif)
 ## Features
 
 - **Pygame Integration**: The game is built using the Pygame library for rendering graphics and handling game logic.
