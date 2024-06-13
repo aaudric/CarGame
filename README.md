@@ -4,7 +4,7 @@ This repository contains the implementation of a car game developed using Pygame
 
 ## Demo
 <p align="center">
-  <img src="gif/training_episode_3.gif" alt="Gif of CarGame">
+  <img src="gif/training_episode_8.gif" alt="Gif of CarGame">
 </p>
 
 ## Features
