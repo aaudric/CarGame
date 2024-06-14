@@ -9,6 +9,14 @@ from tensorflow.keras.layers import Dense, Input
 from tensorflow.keras.optimizers import Adam
 import imageio
 
+'''
+    File name: CarGameIA.py
+    Author: Audric Girondin (https://github.com/aaudric), inspired from clickclackcode (https://github.com/clickclackcode/python-car-game.git)
+    Using Keras
+
+    Update: model trained with Keras
+'''
+
 # Initialize the game
 pygame.init()
 
