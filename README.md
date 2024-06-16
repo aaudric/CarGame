@@ -1,9 +1,9 @@
-# Car Game by Audric
+# Car Game
 
 This repository contains the implementation of a car game developed using Pygame and a DQN (Deep Q-Network) agent for reinforcement learning. The DQN agent learns to play the game by controlling a car that avoids obstacles on a three-lane road.
 ## Table of Contents
 
-- [Car Game by Audric](#car-game-by-audric)
+- [Car Game](#car-game)
   - [Table of Contents](#table-of-contents)
   - [Demo](#demo)
   - [Features](#features)
