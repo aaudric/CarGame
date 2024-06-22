@@ -37,7 +37,7 @@ This repository contains the implementation of a car game developed using Pygame
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cargame.git
+    git clone https://github.com/aaudric/cargame.git
     cd cargame
     ```
 
